@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared Preferences(Act4.1)</string>
+    <string name="checkbox">com.example.sharedpreferencesact41.checkbox</string>
+    <string name="name">com.example.sharedpreferencesact41.name</string>
+    <string name="password">com.example.sharedpreferencesact41.password</string>
+
+
+</resources>
